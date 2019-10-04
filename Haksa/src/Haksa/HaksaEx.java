@@ -49,7 +49,6 @@ public class HaksaEx extends JFrame{
 							null,"등록된 값이 없습니다.","알림",
 							JOptionPane.ERROR_MESSAGE);
 				}
-				System.out.println("왜 안나와..");
 			}
 			
 		});
